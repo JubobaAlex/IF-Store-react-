@@ -1,0 +1,10 @@
+
+.Info {
+    position: relative;
+    float: left;
+}
+
+.ImgMain {
+   justify-content: center;
+    align-items: center;
+}

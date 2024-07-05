@@ -1,3 +1,51 @@
-table {
-    border: 1px solid black;
+.card {
+    background-color: #fff;
+    width: 200px;
+   padding: 20px;
+    border-radius: 20px;
+   
 }
+.status {
+ display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 20px ;
+
+}
+.wrapper {
+  
+}
+.card-title {
+    margin-top: 20px;
+    font-size: 14px;
+    font-weight: 500;
+}
+
+.card-sub {
+    font-size: 12px;
+    font-weight: 300;
+    margin-top: 20px;
+}
+
+.card-img {
+    border-radius: 11px;
+}
+
+.btn {
+    background-color: burlywood;
+    padding: 7px 12px;
+    text-decoration: none;
+    color: seashell;
+    border-radius: 5px;
+}
+
+.btn-keeper {
+    margin-top: 20px;
+    text-align: center;
+}
+
+.tovar {
+    margin-left: 10px;
+}
+
+

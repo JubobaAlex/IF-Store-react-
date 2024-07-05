@@ -2,9 +2,11 @@
 .Info {
     position: relative;
     float: left;
+    margin-left: 15px;
 }
 
 .ImgMain {
    justify-content: center;
     align-items: center;
+    border-radius: 35px;
 }

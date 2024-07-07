@@ -19,7 +19,7 @@ export default function Main() {
                    <b>по ветру гибкие ветви белоствольная береза.</b>
                 </div>
                 <br />
-                <img className='ImgMain' src={'./img/bg.jpg'} width={865} height={400} />
+                <img className='ImgMain' src={'./img/bg.jpg'} width={865} height={350} />
                 
             </main>
         </div>
